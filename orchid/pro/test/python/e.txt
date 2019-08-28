@@ -1,0 +1,9 @@
+
+
+
+>>> type('{"A":"B"}')
+<class 'str'>
+>>> type({"A":"B"})
+<class 'dict'>
+
+

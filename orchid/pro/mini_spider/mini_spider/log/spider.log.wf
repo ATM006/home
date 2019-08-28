@@ -1,0 +1,6 @@
+ERROR: 07-10 22:57:19: spider.py:18 * 140106522392320 get option error : option -c requires argument.
+ERROR: 07-10 22:59:26: spider.py:18 * 140244374198016 get option error : option -c requires argument.
+ERROR: 07-10 23:02:24: spider.py:18 * 139911088244480 get option error : option -c requires argument.
+ERROR: 07-10 23:03:25: spider.py:18 * 140526740084480 get option error : option -c requires argument.
+ERROR: 07-10 23:06:05: process.py:63 * 139648334210816 conf file format error: invalid literal for int() with base 10: '1 ; 最大抓取深度(种子为0级)'
+ERROR: 07-10 23:07:29: process.py:63 * 140593189848832 conf file format error: invalid literal for int() with base 10: '2 ; 最大抓取深度(种子为0级)'

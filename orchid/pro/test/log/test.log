@@ -1,0 +1,10 @@
+2018-04-23 10:34:09,233 - simpleExample - DEBUG - debug message
+2018-04-23 10:34:09,233 - simpleExample - INFO - info message
+2018-04-23 10:34:09,233 - simpleExample - WARNING - warn message
+2018-04-23 10:34:09,233 - simpleExample - ERROR - error message
+2018-04-23 10:34:09,234 - simpleExample - CRITICAL - critical message
+2018-04-23 10:34:53,768 - __main__ - DEBUG - debug message
+2018-04-23 10:34:53,769 - __main__ - INFO - info message
+2018-04-23 10:34:53,769 - __main__ - WARNING - warn message
+2018-04-23 10:34:53,769 - __main__ - ERROR - error message
+2018-04-23 10:34:53,769 - __main__ - CRITICAL - critical message
